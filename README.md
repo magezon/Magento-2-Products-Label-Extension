@@ -1,0 +1,2 @@
+# Magento2-Products-Label-Extension
+Product Labels extension is a way to gain more attention to highlight products in your store. Adding attractive images and call-to-action texts such as "Hot", "New", "Sale Off",etc is a proven way to catch customers' eyes, increase your sales. Upload your own label and add text using the predefined variables. Imagine the sales you'll make when customers see labels and text like: "50% OFF", "Free Shipping", "Christmas Offer".
