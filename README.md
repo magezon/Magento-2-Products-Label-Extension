@@ -1,4 +1,3 @@
-
 <html>
 <html>
 <h1><a href="https://www.magezon.com/product-labels.html">Magento2 Products Label Extension</a></h1>
@@ -66,3 +65,19 @@ Product Labels extension is a way to gain more attention to highlight products i
 <h3><p style="color:red">Set time period to display label</p></h3>
 <p>Define the dates and particular hours between which the labels should be displayed. The label will automatically appear during the time you set.</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" title="Set time period to display labels" src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/time-period.png" alt="Magento2 Product Labels extension feature - Set time period to display labels"/></p>
+<h2>FEATURES FULL LIST</h2>
+<li>Flexible conditions for labels display</li>
+<li>Display product label on product page and product list page</li>
+<li>Easy definition with live preview</li>
+<li>Set priorities for label display, hide with lower priority</li>
+<li>Easy to use predefined variables</li>
+<li>Create an unlimited number of labels</li>
+<li>Support Multiple Stores</li>
+<li>Select customers' groups that can view labels</li>
+<li>Easily manage labels</li>
+<li>Set time period to display labels </li>
+<li>User-friendly interface</li>
+<li>100% Open source</li>
+<li>Free lifetime upgrades</li>
+<li>Easy to install and configure</li>
+<li>No core code changes</li>
