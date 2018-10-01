@@ -2,7 +2,7 @@
 <html>
 <h1><a href="https://www.magezon.com/product-labels.html">Magento2 Products Label Extension</a></h1>
 <br/><br/>
-<table border="1">
+<table>
   <td width="30%" valign="top"style="border: none; ">
     <br><a href="https://www.magezon.com/product-labels.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/p/r/produc-labels.png" alt="Product Labels"/><p>
       <td style="border:none;"></br>
