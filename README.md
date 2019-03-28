@@ -1,5 +1,5 @@
 <html>
-    <h1><a href="https://www.magezon.com/product-labels.html">Magento2 Products Label Extension</a></h1>
+<h1><a href="https://www.magezon.com/product-labels.html">Magento2 Products Label Extension</a></h1>
 <br/><br/>
 <div>
     <table>
@@ -340,13 +340,11 @@
         </div>
         <div>
             <h3>How can I set the labels to be displayed in several groups of products?</h3>
-
             <p>We support conditions that let you mass-configure the labels from the backend. Assign the specific labels
                 to desired groups of product easily without knowing about code.</p>
         </div>
         <div>
             <h3>Can I hide the labels that are not really important?</h3>
-
             <p>Sure! Simply delete the labels. Or, set the priority for them. The labels of lower priority will
                 automatically be hidden on the storefront.</p>
         </div>
