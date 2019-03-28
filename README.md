@@ -405,7 +405,7 @@
             <li>Email us at <a href="mailto:support@magezon.com">support@magezon.com</a></li>
             <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a></li>
             <li>Contact us through <a href="https://www.skype.com/en/">Skype.</a></li>
-            <li>Contact us on live chat: support@magezon.com.</li>
+            <li>Contact us on live chat: https://www.magezon.com/magento-2-product-labels.html.</li>
         </div>
         <br/>
     </div>
