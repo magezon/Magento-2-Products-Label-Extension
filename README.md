@@ -331,7 +331,6 @@
         </div>
         <div>
             <h3>How many labels can I have on my grid?</h3>
-
             <p>Unlimited! Create as many labels as you want. Also, we support several samples with stunning design. All
                 are ready to use.</p>
         </div>
