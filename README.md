@@ -49,8 +49,8 @@
     </table>
 </div>
 <div>
-<br/>
-<h3><a href="https://www.youtube.com/watch?v=n2eeGBok0UU">Watch Video Now !</a></h3>
+    <br/>
+    <h3><a href="https://www.youtube.com/watch?v=n2eeGBok0UU">Watch Video Now !</a></h3>
 </div>
 <br>
 <div>
@@ -60,34 +60,48 @@
         <tr>
             <td width="50%">
                 <div id="unlimited-level" class="col-md-6">
-                    <h3>Configure to display product labels freely&nbsp;(On the home page, product list page, product detail page, etc)</h3>
-                    <p><span style="font-weight: 400;">Choose to display your product labels anywhere having product lists (Product page, product list page or even category page). Moreover, you can show off the labels right on the product detail page. &nbsp;Also, customize labels' design for each page distinguishably. </span></p>
+                    <h3>Configure to display product labels freely&nbsp;(On the home page, product list page, product
+                        detail page, etc)</h3>
+                    <p><span style="font-weight: 400;">Choose to display your product labels anywhere having product lists (Product page, product list page or even category page). Moreover, you can show off the labels right on the product detail page. &nbsp;Also, customize labels' design for each page distinguishably. </span>
+                    </p>
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-3-pages.png" alt="Magento 2 Product Labels | Pages"></p>
+                    <p>
+                        <img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-3-pages.png"
+                             alt="Magento 2 Product Labels | Pages"></p>
                 </div>
             </td>
         </tr>
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Variables.png" alt="Magento 2 Product Labels | 10 variables"></p>
+                    <p>
+                        <img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Variables.png"
+                             alt="Magento 2 Product Labels | 10 variables"></p>
                 </div>
             </td>
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Create specific labels using 10 predefined variables</h3>
-                    <p>Write your brand new messages or use 10 existing variables which are friendly and easy to apply. Hence, showing dynamic text on the labels now is a piece of cake without the need for coding. Our predefined variables include:</p>
+                    <p>Write your brand new messages or use 10 existing variables which are friendly and easy to apply.
+                        Hence, showing dynamic text on the labels now is a piece of cake without the need for coding.
+                        Our predefined variables include:</p>
                     <ul class="firebase-list">
                         <li style="font-weight: 400;"><span style="font-weight: 400;">{PRICE} regular price</span></li>
-                        <li style="font-weight: 400;"><span style="font-weight: 400;">{SPECIAL_PRICE} special price</span></li>
-                        <li style="font-weight: 400;"><span style="font-weight: 400;">{SAVE_AMOUNT} save amount</span></li>
-                        <li style="font-weight: 400;"><span style="font-weight: 400;">{SAVE_PERCENT} save percent</span></li>
-                        <li style="font-weight: 400;"><span style="font-weight: 400;">{SPECIAL_DAY} days left for special price</span></li>
-                        <li style="font-weight: 400;"><span style="font-weight: 400;">{SPECIAL_HOUR} hours left for special price</span></li>
-                        <li style="font-weight: 400;"><span style="font-weight: 400;">{NEW_FOR} days ago the product was added</span></li>
+                        <li style="font-weight: 400;"><span
+                                style="font-weight: 400;">{SPECIAL_PRICE} special price</span></li>
+                        <li style="font-weight: 400;"><span style="font-weight: 400;">{SAVE_AMOUNT} save amount</span>
+                        </li>
+                        <li style="font-weight: 400;"><span style="font-weight: 400;">{SAVE_PERCENT} save percent</span>
+                        </li>
+                        <li style="font-weight: 400;"><span style="font-weight: 400;">{SPECIAL_DAY} days left for special price</span>
+                        </li>
+                        <li style="font-weight: 400;"><span style="font-weight: 400;">{SPECIAL_HOUR} hours left for special price</span>
+                        </li>
+                        <li style="font-weight: 400;"><span style="font-weight: 400;">{NEW_FOR} days ago the product was added</span>
+                        </li>
                         <li style="font-weight: 400;"><span style="font-weight: 400;">{QTY} product qty</span></li>
                         <li style="font-weight: 400;"><span style="font-weight: 400;">{SKU} product SKU</span></li>
                         <li style="font-weight: 400;"><span style="font-weight: 400;">{ATTR:code} attribute value</span>
@@ -101,25 +115,34 @@
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Add labels to 21 positions with preview function</h3>
-                    <p>Place the labels in any position of product at a glance. We support you with 21 existing positions, inside the product image or even outside. Plus, you can see how it look right from the backend with the preview function.</p>
+                    <p>Place the labels in any position of product at a glance. We support you with 21 existing
+                        positions, inside the product image or even outside. Plus, you can see how it look right from
+                        the backend with the preview function.</p>
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-21-positions.png" alt="Magento 2 Product Labels | 21 positions "></p>
+                    <p>
+                        <img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-21-positions.png"
+                             alt="Magento 2 Product Labels | 21 positions "></p>
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div class="col-md-6">
-                    <p>&nbsp;&nbsp;<img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Conditions.png" alt="Magento 2 Product Labels | Flexible conditions"></p>
+                    <p>&nbsp;&nbsp;<img
+                            src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Conditions.png"
+                            alt="Magento 2 Product Labels | Flexible conditions"></p>
                 </div>
             </td>
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Flexible conditions for the labels to display</h3>
-                    <p>Mass-configure your labels using the conditions from the backend. Magento 2 Product Labels assist you to assign specific labels to relative categories or items. Save time for yourself. No need to repetitively apply one label for items on individual pages.<br>The flexible conditions include:</p>
+                    <p>Mass-configure your labels using the conditions from the backend. Magento 2 Product Labels assist
+                        you to assign specific labels to relative categories or items. Save time for yourself. No need
+                        to repetitively apply one label for items on individual pages.<br>The flexible conditions
+                        include:</p>
                     <ul class="firebase-list">
                         <li><span style="font-weight: 400;">Product Category</span></li>
                         <li><span style="font-weight: 400;">Product Attribute</span></li>
@@ -132,25 +155,34 @@
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Set time period for labels</h3>
-                    <p>Set date and time intervals for your labels to be displayed. As the time period expires, the labels will stop displaying automatically. Such an extremely helpful function in every promotion campaign!</p>
+                    <p>Set date and time intervals for your labels to be displayed. As the time period expires, the
+                        labels will stop displaying automatically. Such an extremely helpful function in every promotion
+                        campaign!</p>
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Time-period.png" alt="Magento 2 Product Labels | Time period"></p>
+                    <p>
+                        <img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Time-period.png"
+                             alt="Magento 2 Product Labels | Time period"></p>
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Priority_1.png" alt="Magento 2 Product Labels | Priority"></p>
+                    <p>
+                        <img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Priority_1.png"
+                             alt="Magento 2 Product Labels | Priority"></p>
                 </div>
             </td>
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Configure the label priority</h3>
-                    <p>Having more than one or even many different labels for one product? Wondering how to display them neatly and eye-catching in order not to confuse customers? Don’t worry! Product labels extension can help with the function of priority. Lower-priority labels will be hidden to display the higher one.</p>
+                    <p>Having more than one or even many different labels for one product? Wondering how to display them
+                        neatly and eye-catching in order not to confuse customers? Don’t worry! Product labels extension
+                        can help with the function of priority. Lower-priority labels will be hidden to display the
+                        higher one.</p>
                 </div>
             </td>
         </tr>
@@ -158,12 +190,16 @@
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Create unlimited labels</h3>
-                    <p>We don’t apply any limit on creating labels. So, it's time for your creativity. Make as many product labels as you need. Add images decorating the labels from the device or links. Store them all in the label management grid and edit them any time you want.</p>
+                    <p>We don’t apply any limit on creating labels. So, it's time for your creativity. Make as many
+                        product labels as you need. Add images decorating the labels from the device or links. Store
+                        them all in the label management grid and edit them any time you want.</p>
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Unlimited-labels.png" alt="Magento 2 Product Labels | Unlimited Labels "></p>
+                    <p>
+                        <img src="https://www.magezon.com/pub/media/wysiwyg/extension/productlabels/Magento-2-Product-Labels-_-Unlimited-labels.png"
+                             alt="Magento 2 Product Labels | Unlimited Labels "></p>
                 </div>
             </td>
         </tr>
@@ -204,190 +240,127 @@
         <tr>
             <td width="40%" valign="top">
                 <div class="col-md-6">
-                    <h3 style="color: #ff6600;">Ultimate Shop By Brand Extension</h3>
+                    <h3><span style="color: #ff6600;"><strong>For store admins</strong></span></h3>
+                    <h4><strong><em>Manage labels</em></strong></h4>
                     <ul>
-                        <li>Brand listing page</li>
-                        <li>Brand detailed page</li>
-                        <li>Featured Brands block</li>
-                        <li>Brand category page</li>
-                        <li>Brand logo &amp; related products on product page</li>
-                        <li>Brand name under product price in product listings</li>
+                        <li><span style="font-weight: 400;">Add unlimited labels</span></li>
+                        <li><span style="font-weight: 400;">Delete, disable, enable the labels </span></li>
+                        <li><span style="font-weight: 400;">Search, filter, set store view for labels</span></li>
+                        <li><span style="font-weight: 400;">Set columns to be displayed on the grid</span></li>
+                        <li><span style="font-weight: 400;">Decide the number of labels to appear at once</span></li>
                     </ul>
-                    <h3 style="color: #ff6600;">SEO-friendly</h3>
+                    <h4><strong><em>Edit a label</em></strong></h4>
                     <ul>
-                        <li>SEO-friendly pages:
-                            <p>- Brand listing page</p>
-                            <p>- Brand detailed page</p>
-                            <p>- Category page</p>
+                        <li><span style="font-weight: 400;">Set the label to be displayed in multiple pages (home page, product list page, product page, etc)</span>
                         </li>
-                        <li>SEO-friendly elements:
-                            <p>- URL</p>
-                            <p>- Meta title</p>
-                            <p>- Meta keyword</p>
-                            <p>- Meta description</p>
+                        <li><span style="font-weight: 400;">Name a label to distinguish from other labels</span></li>
+                        <li><span style="font-weight: 400;">Set time period for the label</span></li>
+                        <li><span
+                                style="font-weight: 400;">Decide whether the label appear on parent product or not</span>
                         </li>
-                    </ul>
-                    <h3 style="color: #ff6600;">Better User Experience</h3>
-                    <ul>
-                        <li>Filter products by brand in layered navigation</li>
-                        <li>Filter products by color, size, etc. on brand detailed page</li>
-                        <li>Access brand listing page quickly form menu bar/top link</li>
-                        <li>AJAX search and filter</li>
-                    </ul>
-                    <h3 style="color: #ff6600;">Custom layout</h3>
-                    <ul>
-                        <li>Display Featured Brands slider as dot navigation or next/previous buttons</li>
-                        <li>Display brands in grid or group by first character on brand listing page</li>
-                        <li>Responsive design that works well on all devices.</li>
+                        <li><span style="font-weight: 400;">Decide to hide a label of lower priority</span></li>
+                        <li><span style="font-weight: 400;">Choose store view and customer groups</span></li>
+                        <li><span style="font-weight: 400;">Set the priority order</span></li>
+                        <li><span style="font-weight: 400;">Add multiple labels on the same product</span></li>
+                        <li><span style="font-weight: 400;">Configure the label's appearance by adding images</span>
+                        </li>
+                        <li><span style="font-weight: 400;">Decide the position with preview function</span></li>
+                        <li><span style="font-weight: 400;">Set the content of the label</span></li>
+                        <li><span
+                                style="font-weight: 400;">Use WYSIWYG technique or HTML mode to edit the content</span>
+                        </li>
+                        <li><span style="font-weight: 400;">Insert image, widget or variable to the content</span></li>
+                        <li><span style="font-weight: 400;">10 variables supported</span></li>
+                        <li><span
+                                style="font-weight: 400;">Customize the design of the label (Color, width, style)</span>
+                        </li>
+                        <li><span style="font-weight: 400;">Insert anchor link to the label</span></li>
+                        <li><span style="font-weight: 400;">Choose the conditions to display labels</span></li>
+                        <li><span style="font-weight: 400;">Combine the conditions</span></li>
+                        <li><span style="font-weight: 400;">Choose the product type to display labels</span></li>
+                        <li><span style="font-weight: 400;">Set the stock status</span></li>
+                        <li><span style="font-weight: 400;">Use the stock range to set the labels display </span></li>
                     </ul>
                 </div>
             </td>
             <td width="40%" valign="top">
                 <div class="col-md-6">
-                    <h3 style="color: #ff6600;">3 Ways to Search/Filter Brands</h3>
+                    <h3><span style="color: #ff6600;"><strong>For customers</strong></span></h3>
                     <ul>
-                        <li>By search box</li>
-                        <li>By alphabet order</li>
-                        <li>By product category</li>
+                        <li><span style="font-weight: 400;">View a product with multiple labels</span></li>
+                        <li><span style="font-weight: 400;">View product labels in multiple pages (product page, home page, etc)</span>
+                        </li>
+                        <li><span style="font-weight: 400;">Be aware of the promotions displayed of the product labels &nbsp;</span>
+                        </li>
                     </ul>
-                    <h3 style="color: #ff6600;">Better Brand Management</h3>
+                    <h3><span style="color: #ff6600;"><strong>Business value</strong></span></h3>
                     <ul>
-                        <li>View sold products of each brand</li>
-                        <li>Import/Export brands</li>
-                    </ul>
-                    <h3 style="color: #ff6600;">Easy to Configure</h3>
-                    <ul>
-                        <li>Edit multiple stores &amp; multiple languages for a brand in one place</li>
-                        <li>Assign a product to specific brands on the product edit page</li>
-                        <li>Create new brand on product edit page</li>
-                        <li>Edit brand description &amp; category description with WYSIWYG</li>
-                        <li>Support multiple brand &amp; multiple category inline editing</li>
-                        <li>Quickly search for brands in backend with global search</li>
-                        <li>Easily embed Feature Brands block anywhere with Brand Widget</li>
-                    </ul>
-                    <h3 style="color: #ff6600;">Others</h3>
-                    <ul>
-                        <li>API support</li>
-                        <li>OWL carousel</li>
-                        <li>No core code changes</li>
-                        <li>100% open-source</li>
-                        <li>Easy to install</li>
-                        <li>User-friendly interface</li>
-                        <li>30-day money back</li>
-                        <li>Free lifetime updates</li>
+                        <li><span style="font-weight: 400;">Money and time saving </span></li>
+                        <li><span style="font-weight: 400;">Improve traffic flow to the site</span></li>
+                        <li><span style="font-weight: 400;">Boost sales revenue </span></li>
                     </ul>
                 </div>
             </td>
         </tr>
     </table>
+    <br/>
 </div>
 <div>
-    <br/>
-    <h2>Frequently Asked Questions</h2>
     <div>
-        <p>Do you have any questions about Magento 2 Shop By Brand? See the list below for our most frequently asked
+        <h2>Frequently Asked Questions</h2>
+        <p>Do you have any questions about Magento 2 Product Labels? See the list below for our most frequently asked
             questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact">contact
                 us.</a></p>
+        <br/>
     </div>
     <div>
         <h2>Feature FAQs</h2>
+        <div>
+            <h3>Installation Instructions</h3>
+            <p>To install this extension, please refer to Magento 2 Product Labels Installation Guide for detailed
+                instructions. It will take you just a few minutes to install our extension.</p>
+        </div>
+        <div><h3>Who should use Magento 2 Product Labels?</h3>
+            <p><span style="font-weight: 400;">Anyone who wanna draw customers' attention to their products and website. In the first time visiting a website, it's quite difficult for them the find out On sale, New arrivals, Hot, etc. Let them know by using the eye-catching labels in order to motivate them to buy more and faster. </span>
+            </p>
+        </div>
+        <div>
+            <h3>How many labels can I add to a product?</h3>
+            <p><span style="font-weight: 400;">We don’t limit the number of labels appeared on each product. However, be careful while adding them to the products. Don't be greedy to add bunches of labels in a tiny product' images. This will confuse the customers rather than attract them. </span>
+            </p>
+        </div>
+        <div>
+            <h3>How many labels can I have on my grid?</h3>
 
-        <div>
-            <h3>Installation Instructions?</h3>
-            <p>To install this extension, please refer to <a
-                    href="https://magezon.com/pub/media/productfile/shopbybrand-v1.0.0-installation-guides.pdf"> Magento
-                2
-                Shop
-                By Brand Installation Guide </a>for detailed instructions. It will take you just a few minutes to
-                install
-                our
-                extension.</p>
-            <div>
-                <h3>Can I create categories for brands?</h3>
-                <p>Yes, our extension allows you to create specific categories for brands. These categories will be
-                    displayed on
-                    the brand listing page so that you can use to filter brands. You can also choose which categories to
-                    appear
-                    in the brand category block on the sidebar of brand detailed pages. Besides, each category has its
-                    own
-                    page
-                    that you can customize to be SEO-friendly in the backend.</p>
-            </div>
-            <div>
-                <h3>Does Magento 2 Shop By Brand use AJAX to filter brands and load results in instant search box?</h3>
-                <p>Yes, when filtering or searching for brands, customers will achieve their desired results without
-                    page
-                    reload.</p>
-            </div>
-            <div>
-                <h3>What types of products does Magento 2 Shop By Brand support?</h3>
-                <p>Our extension supports all kinds of products including simple, downloadable, configurable, virtual,
-                    bundle,
-                    grouped, etc.</p>
-            </div>
-            <div>
-                <h3>Is the Featured Brands block mobile responsive?</h3>
-                <p>Absolutely. The Featured Brands block works well not only on smartphone but also on other kinds of
-                    devices.</p>
-            </div>
-            <h3>Can I change the URL of the brand listing page?</h3>
-            <p>Yes, of course. First, click on Magezon on the admin sidebar. Then navigate to Shop By Brand > Settings.
-                In
-                the
-                “General Information” section, you will see the field “Brand Route” where you can change the URL of the
-                brand
-                listing page. You can follow this link to have a clearer view.</p>
+            <p>Unlimited! Create as many labels as you want. Also, we support several samples with stunning design. All
+                are ready to use.</p>
         </div>
         <div>
-            <h3>My customers have ordered some products of a brand but I don't see these products appear in the "Sold
-                Items"
-                management section in the backend? Why?</h3>
-            <p>First, we want to explain to you about Cron Job feature of Magento 2 which allows an activity to run
-                automatically at a scheduled time. Among multiple activities that can be scheduled with this feature,
-                one is
-                refreshing report statistics on orders. Specifically, at a specific time of day, the order statistics
-                will
-                be
-                automatically refreshed to include the most recent data. It means that you cannot view the most recent
-                order
-                statistics in the “Reports” section of your website backend until this time.</p>
-            <p>Now you may wonder how Magento 2 Shop By Brand collects statistics on sold products of a brand. In fact,
-                our
-                extension obtains the data based on the order report statistics of your whole website. If the order
-                statistics
-                of your whole website haven’t been updated, those of Shop By Brand haven’t, either. Therefore, if your
-                customers
-                have ordered some products of a brand but it’s not time to refresh the order statistics of your whole
-                website,
-                you cannot view updated data of these products in the “Reports” section of your website backend. And of
-                course,
-                you cannot view them in the “Sold Items” management section of our extension backend.</p>
-            <p>So, to view the order statistics on sold items of a brand, you have to wait until the scheduled
-                refreshing
-                time.
-                However, if you want to view immediately, you can do it manually. Just navigate to Reports on the admin
-                sidebar,
-                then click on Refresh Statistics in Statistics section. After that, tick the checkboxes of “Orders” and
-                “Bestsellers” (or you can select all). Set the Actions control to “Refresh Lifetime Statistics” and
-                click
-                Submit
-                button. Now the data of recently ordered products of a brand has been updated.</p>
-            <p><img title="Refresh report statistics on orders"
-                    src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Refresh_report_statistics_on_orders.png"
-                    alt="Refresh report statistics on orders"/></p>
+            <h3>How many pages can I place these labels?</h3>
+
+            <p>As we said in the first feature, you can add the product labels to wherever having list of products. It
+                means you can add them to the home page, product list page, category page or even right on the product
+                detail page.</p>
         </div>
-        <h3>After installing Magento 2 Shop By Brand for my website, I want my frontend store to look like the demo. Is
-            it
-            possible?</h3>
-        <p>
-            Surely! All the settings you see in our backend demo will be the default ones in your backend after you
-            install
-            our
-            extension. You can leave them unchanged so that your frontend store will look like our demo. Or you can make
-            changes
-            to suit your needs.</p>
+        <div>
+            <h3>How can I set the labels to be displayed in several groups of products?</h3>
+
+            <p>We support conditions that let you mass-configure the labels from the backend. Assign the specific labels
+                to desired groups of product easily without knowing about code.</p>
+        </div>
+        <div>
+            <h3>Can I hide the labels that are not really important?</h3>
+
+            <p>Sure! Simply delete the labels. Or, set the priority for them. The labels of lower priority will
+                automatically be hidden on the storefront.</p>
+        </div>
+        <div>
+            <h3>What if I only need a label to appear on the time of a campaign?</h3>
+            <p>It's very easy. From the backend, set the time period for the desired label. Then, save the configure. As
+                the campaign finishes, the label will automatically disappear from the site.</p>
+        </div>
+        <br/>
     </div>
-    <br/>
     <div>
         <h2>Support FAQs</h2>
         <div>
@@ -440,8 +413,8 @@
             <li>Contact us through <a href="https://www.skype.com/en/">Skype.</a></li>
             <li>Contact us on live chat: support@magezon.com.</li>
         </div>
+        <br/>
     </div>
-    <br/>
     <div>
         <h2>Payment FAQs</h2>
         <div>
@@ -476,8 +449,8 @@
                 extension license.</p>
         </div>
     </div>
+    <br>
 </div>
-<br>
 <div>
     <h2>Magezon Extensions</h2>
     <ul>
