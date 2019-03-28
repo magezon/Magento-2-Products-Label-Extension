@@ -1,7 +1,5 @@
 <html>
-<div>
     <h1><a href="https://www.magezon.com/product-labels.html">Magento2 Products Label Extension</a></h1>
-</div>
 <br/><br/>
 <div>
     <table>
@@ -336,7 +334,6 @@
         </div>
         <div>
             <h3>How many pages can I place these labels?</h3>
-
             <p>As we said in the first feature, you can add the product labels to wherever having list of products. It
                 means you can add them to the home page, product list page, category page or even right on the product
                 detail page.</p>
