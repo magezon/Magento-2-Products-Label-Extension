@@ -168,7 +168,6 @@
             </td>
         </tr>
         <tr>
-
             <td>
                 <div class="col-md-6">
                     <p><img title="Magento 2 Mega Menu | Documentation"
