@@ -14,15 +14,15 @@
                         Labels</strong></a><span style="font-weight: 400;"> of Magezon is an amazing extension that helps draw customers' attention in the fastest way. Appealing labels along with suitable call-to-action texts like "Hot", "New", "Sale Off", etc can absolutely increase the conversion rate as well as boost the sales. </span>
                     </p>
                     <ul class="firebase-list">
-                        <li>Configure to display labels freely&nbsp;(On the home page, product list page, product detail
+                        <li><a href="#configure-to-display">Configure to display labels freely&nbsp;(On the home page, product list page, product detail
                             page, etc)
-                        </li>
-                        <li>Create specific labels using 10 predefined variables</li>
-                        <li>Add labels to 21 positions with preview&nbsp;function</li>
-                        <li>Flexible conditions for the labels to display</li>
-                        <li>Set time period for labels</li>
-                        <li>Set label priority</li>
-                        <li>Create an unlimited number of labels</li>
+                        </a></li>
+                        <li><a href="#create-specific">Create specific labels using 10 predefined variables</a></li>
+                        <li><a href="#add-lable">Add labels to 21 positions with preview&nbsp;function</a></li>
+                        <li><a href="#flexible-conditions">Flexible conditions for the labels to display</a></li>
+                        <li><a href="#set-time">Set time period for labels</a></li>
+                        <li><a href="#set-lable">Set label priority</a></li>
+                        <li><a href="#create-an-unlimited">Create an unlimited number of labels</a></li>
                     </ul>
                 </div>
             </div>
@@ -55,7 +55,7 @@
     <h2>Feature Highlights</h2>
     <table>
         <tbody>
-        <tr>
+        <tr id="configure-to-display">
             <td width="50%">
                 <div id="unlimited-level" class="col-md-6">
                     <h3>Configure to display product labels freely&nbsp;(On the home page, product list page, product
@@ -72,7 +72,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="create-specific">
             <td width="50%">
                 <div class="col-md-6">
                     <p>
@@ -109,7 +109,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="add-lable">
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Add labels to 21 positions with preview function</h3>
@@ -126,7 +126,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="flexible-conditions">
             <td>
                 <div class="col-md-6">
                     <p>&nbsp;&nbsp;<img
@@ -149,7 +149,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="set-time">
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Set time period for labels</h3>
@@ -166,7 +166,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="set-lable">
             <td>
                 <div class="col-md-6">
                     <p>
@@ -184,7 +184,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="create-an-unlimited">
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Create unlimited labels</h3>
@@ -357,114 +357,151 @@
     </div>
     <div>
         <h2>Support FAQs</h2>
-        <div>
-            <h3><a id="user-content-----how-can-i-get-installation-support---" class="anchor" aria-hidden="true"
-                   href="#----how-can-i-get-installation-support---">
-                <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                     aria-hidden="true">
-                    <path fill-rule="evenodd"
-                          d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-                </svg>
-            </a><b>
+    <div>
+        <h3>
+            <b>
                 How can I get installation support?
-            </b></h3>
-            <p>
-                When you are buying our product, you can see the information of it in add to cart area. In the
-                'Additional
-                Services' block, tick on 'Free Installation Support' before adding to cart. Just <a
-                    href="https://magezon.ticksy.com/" rel="nofollow">submit a ticket here</a> and we're ready for help
-                within
-                24 hours. This service is totally free, all the thing you have to do is providing us with those below
-                information:
-            </p>
-            <ul>
-                <li>
-                    <p>Order ID</p>
-                </li>
-                <li>
-                    <p>SSH account &amp; admin account</p>
-                </li>
-            </ul>
-        </div>
-        <div>
-            <h3>Will I get free support and updates?</h3>
-            <p>Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.</p>
-        </div>
-        <div>
-            <h3>Do I have to pay an extra fee for support after 90 days?</h3>
-            <p>After 90 days, you need to pay an extra fee for our support. However, we believe that 90 days is enough
-                for you
-                to install, run and use our extension properly on your website.</p>
-        </div>
-        <div>
-            <h3>How can I get your support?</h3>
-            <p>If you have any questions or need any support, feel free to contact us via following ways. We will get
-                back to
-                you within 24 hours since you submit your support request.</p>
-            <li>Fill out <a href="https://www.magezon.com/contact">Contact Us form and submit to us.</a></li>
-            <li>Email us at <a href="mailto:support@magezon.com">support@magezon.com</a></li>
-            <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a></li>
-            <li>Contact us through <a href="https://www.skype.com/en/">Skype.</a></li>
-            <li>Contact us on live chat: https://www.magezon.com/magento-2-product-labels.html.</li>
-        </div>
-        <br/>
+            </h3>
+        </b>
+        <p>
+            When you are buying our product, you can see the information of it in add to cart area. In the 'Additional Services' block, tick on 'Free Installation Support' before adding to cart. Just submit a ticket <a href="https://magezon.ticksy.com/">here</a> and we're ready for help within 24 hours. This service is totally free, all the thing you have to do is providing us with those below information:
+        </p>
+        <ul>
+            <li>Order ID</li>
+            <li>SSH account & admin account</li>
+        </ul>
     </div>
     <div>
-        <h2>Payment FAQs</h2>
-        <div>
-            <h3>How can I pay for Blue Form Builder?</h3>
-            <p>Currently, we only support product payment via Paypal. However, we will consider other payment methods
-                and notify
-                you of this.</p>
-        </div>
-        <div>
-            <h3>Can I get a refund after purchasing your product?</h3>
-            <p>If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase.
-                Please send
-                your refund request by filling out <a href="https://www.magezon.com/contact">Contact Us</a>, emailing us
-                at
-                support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.</p>
-        </div>
-        <div>
-            <h3>Is your product purchased with one-time payment?</h3>
-            <p>Yes, you just need to pay one time to get our product without monthly service or update cost or something
-                like
-                that.</p>
-        </div>
-        <div>
-            <h3>What is the license policy in Magezon?</h3>
-            <p>According to our license policy, you are allowed to use a single extension license on only one Magento
-                installation.</p>
-            <p> If you want to use our extension on another Magento installation, you have to purchase another license
-                for this
-                installation.</p>
-            <p>If you’re running multiple domains or websites under the same Magento installation, you just need to use
-                one
-                extension license.</p>
-        </div>
+        <h3>
+            <b>
+                Will I get free support and updates?
+            </h3>
+        </b>
+        <p>
+            Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.
+        </p>
+    </div>
+    <div>
+        <h3>
+            <b>
+                Do I have to pay an extra fee for support after 90 days
+            </h3>
+        </b>
+        <p>
+            After 90 days, you need to pay an extra fee for our support. However, we believe that 90 days is enough for you to install, run and use our extension properly on your website.
+        </p>
+    </div>
+    <div>
+        <h3>
+            <b>
+                How can I get your support?
+            </h3>
+        </b>
+        <p>
+            If you have any questions or need any support, feel free to contact us via following ways. We will get back to you within 24 hours since you submit your support request.
+        </p>
+        <li>Fill out <a href="https://www.magezon.com/contact">Contact Us</a> form and submit to us.</li>
+        <li>Email us at <a href="Email us at support@magezon.com.">support@magezon.com.</a>
+        </li>
+        <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a>
+        </li>
+        <li>Contact us through Skype: support@magezon.com.</li>
+        <li>Contact us via live chat on <a href="https://www.magezon.com/">Our Website</a>.</li>
     </div>
     <br>
+    <br>
+    <h2>Payment FAQs</h2>
+    <div>
+        <h3>
+            <b>
+                How can I pay for your products?
+            </h3>
+        </b>
+        <p>
+            Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.
+        </p>
+    </div>
+    <div>
+        <h3>
+            <b>
+                Can I get a refund after purchasing your product?
+            </h3>
+        </b>
+        <p>
+            If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out <a href="https://www.magezon.com/contact">Contact Form</a>, emailing us at <a href="mailto:support@magezon.com">support@magezon.com</a>, or submitting a <a href="https://magezon.ticksy.com/">ticket</a>.
+        </p>
+    </div>
+    <div>
+        <h3>
+            <b>
+                Is your product purchased with one-time payment?
+            </h3>
+        </b>
+        <p>
+            Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.
+        </p>
+    </div>
+    <div>
+        <br>
+        <br>
+        <h2>License FAQs</h2>
+        <h3>
+            <b>
+                What is the license policy in Magezon
+            </h3>
+        </b>
+        <p>
+            According to our license policy, you are allowed to use a single extension license on only one Magento installation.
+        </p>
+        <p>
+        If you want to use our extension on another Magento installation, you have to purchase another license for this installation.</p>
+        <p>If you’re running multiple domains or websites under the same Magento installation, you just need to use one extension license.</p>
+    </div>
+    <br>
+    <br>
 </div>
-<div>
+<div class="extensions">
     <h2>Magezon Extensions</h2>
-    <ul>
-        <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html" rel="nofollow">Magento 2 Page
-            Builder</a></li>
-        <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html" rel="nofollow">Magento 2 Single
-            Product Page Builder</a></li>
-        <li><a href="https://www.magezon.com/magento-2-form-builder.html" rel="nofollow">Magento 2 Form Builder</a></li>
-        <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
-        <li><a href="https://www.magezon.com/magento-2-shop-by-brand.html" rel="nofollow">Magento 2 Shop By Brand</a>
+    <ul class="firebase-list">
+        <li>
+            <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder</a>
         </li>
-        <li><a href="https://www.magezon.com/product-labels.html" rel="nofollow">Magento 2 Product Labels</a></li>
-        <li><a href="https://www.magezon.com/magento-2-quick-order.html" rel="nofollow">Magento 2 Quick Order</a></li>
-        <li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html" rel="nofollow">Magento 2 Ajax Cart</a></li>
-        <li><a href="https://www.magezon.com/magento-2-lazy-load.html/" rel="nofollow">Magento 2 Lazy Load</a></li>
-        <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/" rel="nofollow">Magento 2 Tabs</a></li>
-        <li><a href="https://www.magezon.com/magento-2-customer-attachments.html" rel="nofollow">Magento 2 Customer
-            Attachments</a></li>
-        <li><a href="https://www.magezon.com/configurable-product-matrix.html" rel="nofollow">Magento 2 Configurable
-            Product Matrix</a></li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Magento 2 Single Product Page Builder</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-popup-builder.html">Magento 2 Popup Builder</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-quick-order.html">Magento 2 Quick Order</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-lazy-load.html/">Magento 2 Lazy Load</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-tabs-pro.html/">Magento 2 Tabs</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a>
+        </li>
+        <li>
+            <a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a>
+        </li>
     </ul>
 </div>
 </html>
